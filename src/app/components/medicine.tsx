@@ -21,7 +21,7 @@ export default function Medicine() {
             className="sm:ml-16 portrait:ml-7 mt-1 rounded-xl portrait:w-[150px]"
           />
           <h3 className="text-black/80 font-sans sm:ml-16  portrait:ml-5 font-semibold ">
-            Stethoscope
+            Syrup
           </h3>
           <p className="text-black/80 font-sans text-wrap sm:ml-16 font-semibold portrait:ml-5   ">
             Comprehensive emergencyfor home and travel.
@@ -38,7 +38,7 @@ export default function Medicine() {
             className="sm:ml-16 portrait:ml-7 mt-1 rounded-xl portrait:w-[150px]"
           />
           <h3 className="text-black/80 font-sans sm:ml-16  portrait:ml-5 font-semibold ">
-            Adhesive cloth tape
+            Antibiotic
           </h3>
           <p className="text-black/80 font-sans text-wrap sm:ml-16 font-semibold portrait:ml-5   ">
             Comprehensive emergencyfor home and travel.
@@ -55,7 +55,7 @@ export default function Medicine() {
             className="sm:ml-16 portrait:ml-7 mt-1 rounded-xl portrait:w-[150px]"
           />
           <h3 className="text-black/80 font-sans sm:ml-16  portrait:ml-5 font-semibold ">
-            Pain relif{" "}
+          Supplement{" "}
           </h3>
           <p className="text-black/80 font-sans text-wrap sm:ml-16 font-semibold portrait:ml-5   ">
             Comprehensive emergencyfor home and travel.
@@ -72,7 +72,7 @@ export default function Medicine() {
             className="sm:ml-16 portrait:ml-7 mt-1 rounded-xl portrait:w-[150px]"
           />
           <h3 className="text-black/80 font-sans sm:ml-16  portrait:ml-5 font-semibold ">
-            Thermometer
+            Multivitamin 
           </h3>
           <p className="text-black/80 font-sans text-wrap sm:ml-16 font-semibold portrait:ml-5   ">
             Comprehensive emergencyfor home and travel.
